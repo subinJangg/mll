@@ -71,9 +71,3 @@ npm run serve
 
 ---
 
-## 만든 이
-
-(주)망링레 | 대표: 장수빈
-
-- Instagram: [@mango_lingo_lego](https://instagram.com/mango_lingo_lego)
-- YouTube: [@mango_lingo_lego](https://youtube.com/@mango_lingo_lego)
